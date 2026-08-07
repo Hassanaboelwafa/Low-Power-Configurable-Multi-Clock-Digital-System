@@ -1,0 +1,29 @@
+{C:/Users/LOQ/Desktop/ASIC/Project/TX Block/UART_TX_FSM.v} {1 {vlog -work work -vopt -stats=none {C:/Users/LOQ/Desktop/ASIC/Project/TX Block/UART_TX_FSM.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_TX_FSM
+
+Top level modules:
+	UART_TX_FSM
+
+} {} {}} {C:/Users/LOQ/Desktop/ASIC/Project/TX Block/UART_TX_MUX.v} {1 {vlog -work work -vopt -stats=none {C:/Users/LOQ/Desktop/ASIC/Project/TX Block/UART_TX_MUX.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module UART_TX_MUX
+
+Top level modules:
+	UART_TX_MUX
+
+} {} {}} {C:/Users/LOQ/Desktop/ASIC/Project/TX Block/UART_TX_Serializer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/LOQ/Desktop/ASIC/Project/TX Block/UART_TX_Serializer.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Serializer
+
+Top level modules:
+	Serializer
+
+} {} {}} {C:/Users/LOQ/Desktop/ASIC/Project/TX Block/UART_TX_Parity_Calc.v} {1 {vlog -work work -vopt -stats=none {C:/Users/LOQ/Desktop/ASIC/Project/TX Block/UART_TX_Parity_Calc.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Parity_Calc
+
+Top level modules:
+	Parity_Calc
+
+} {} {}}

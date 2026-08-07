@@ -1,0 +1,266 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/LOQ/Desktop/ASIC/Assigments/Verilog/assigment 5.0
+T_opt
+!s110 1785944769
+V47n]6j8TcGLz[029KM2J72
+04 10 4 work UART_TX_tb fast 0
+=1-40d133eacd56-6a735ac1-285-332c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vParity_Calc
+Z2 !s110 1785944765
+!i10b 1
+!s100 j^zMbCY0REiMiTCDPENgh0
+IIYa?Jh8:nHAh@aH^1mMd23
+Z3 dC:/Users/LOQ/Desktop/ASIC/Project/TX Block
+w1785785869
+8UART_TX_Parity_Calc.v
+FUART_TX_Parity_Calc.v
+!i122 151
+L0 1 15
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1785944765.000000
+Z7 !s107 UART_TX_tb.v|UART_TX_Serializer.v|UART_TX_Reg_Inputs.v|UART_TX_Parity_Calc.v|UART_TX_MUX.v|UART_TX_FSM.sv|Top.v|
+Z8 !s90 -reportprogress|300|Top.v|UART_TX_FSM.sv|UART_TX_MUX.v|UART_TX_Parity_Calc.v|UART_TX_Reg_Inputs.v|UART_TX_Serializer.v|UART_TX_tb.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@parity_@calc
+vSerializer
+R2
+!i10b 1
+!s100 FfW9ldafWA5ThW<nK5<I?1
+I1B3BfA;`PC663LH0PHRPH3
+R3
+w1785944282
+8UART_TX_Serializer.v
+FUART_TX_Serializer.v
+!i122 151
+L0 1 46
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@serializer
+vTop
+R2
+!i10b 1
+!s100 CA5Um;[Wk9]0<B1?zjm8A2
+IMSf1fHGEi=j9l]WXFbN2]0
+R3
+w1785788944
+8Top.v
+FTop.v
+!i122 151
+L0 1 73
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@top
+vUART_TX_FSM
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R2
+!i10b 1
+!s100 D`;O0QCcfEezBoSJOM77]2
+Ii4:Uj7LAS7lAJ:^TVAP;a2
+S1
+R3
+w1785943955
+8UART_TX_FSM.sv
+FUART_TX_FSM.sv
+!i122 151
+L0 1 131
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@u@a@r@t_@t@x_@f@s@m
+vUART_TX_MUX
+R2
+!i10b 1
+!s100 cG<4DGSNH0`THZ3?S9OD01
+I_R6oWG2ZkQf`1aaKR2oGN0
+R3
+w1785944037
+8UART_TX_MUX.v
+FUART_TX_MUX.v
+!i122 151
+L0 1 28
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@u@a@r@t_@t@x_@m@u@x
+vUART_TX_Reg_Inputs
+R2
+!i10b 1
+!s100 9Ac@_<PV0ZLNADH?4:G1?2
+ITdVhjIIHkzM>3NYE9fdUg0
+R3
+w1785943267
+8UART_TX_Reg_Inputs.v
+FUART_TX_Reg_Inputs.v
+!i122 151
+L0 1 31
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@u@a@r@t_@t@x_@reg_@inputs
+vUART_TX_tb
+R2
+!i10b 1
+!s100 MejVVd@BN=`VajWnZQ=@@3
+I7cK5C5n[d5E:LU_]>PiPj3
+R3
+w1785944763
+8UART_TX_tb.v
+FUART_TX_tb.v
+!i122 151
+L0 2 219
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@u@a@r@t_@t@x_tb
